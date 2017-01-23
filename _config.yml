@@ -16,3 +16,4 @@ github_username:  mcclellandmsn
 
 # Build settings
 markdown: kramdown
+theme: minimal
